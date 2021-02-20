@@ -1,5 +1,5 @@
 # If you want to scrape a website:
-# 1. Use the API
+# 1. Use the APIs
 # 2. HTML Web Scraping using some tool like bs4
 
 # Step 0: Install all the requirements
