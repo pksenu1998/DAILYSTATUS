@@ -5,7 +5,7 @@
 # Step 0: Install all the requirements
 # pip install requests
 # pip install bs4
-# pip install html5lib
+# pip install html5libb
 
 import requests
 from bs4 import BeautifulSoup
